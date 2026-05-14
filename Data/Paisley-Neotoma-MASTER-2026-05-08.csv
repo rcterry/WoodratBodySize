@@ -1,0 +1,400 @@
+﻿RCTID,OriginalTaxon,Taxon,L-R-B,Bone,Element,Position,Teeth,Burned,Evidence,Notes,Diastema.length,Alveolar.length,M1.length,M1.Width,M2.Length,M2.Width,M3.Length,M3.Width,M1M2.Length,Crown.Height,Bchron Age,Age Bin,UO.Num,Cave,Unit,Quad,Level,Level.Verbatim
+1,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m1Forward,,,"Strong AM groove, pits",,,8.08,3.92,,,,,,,3.12,1218.902,Holocene,,5,5,A,4,4
+2,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"Strong AM groove, all the way down",,,,3.91,,,,,,,2.94,1539.811,Holocene,,5,5,A,5,5
+3,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,M1-M2,,,"Shallow AM groove, Buccal re-entrant on M2 pinched",,,,3.2,2.6,,,,,,2.95,1539.811,Holocene,,5,5,A,5,5
+4,c.f. Neotoma fuscipes,Neotoma fuscipes,L,maxilla,upper M2,,,,Buccal medial loph bent,N. lepida?,,,,,2.5,,,,,2.21,1926.551,Holocene,,5,5,A,6,6
+5,Neotoma lepida,Neotoma lepida,R,mandible,lower M1,,,,"AM groove stops above ED junction, no pits, size",,,,3.13,,,,,,,2.63,1926.551,Holocene,,5,5,A,6,6
+6,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,"AM groove all the way down, pits",worn,,,3.46,,,,,,,1.57,1926.551,Holocene,,5,5,A,6,6
+7,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,M1-M2,,,"Shallow anterior lingual groove on M1, angled lingual re-entrant on M2, no lingual pits",,,,3.45,,2.65,,,,,1.28,2252.775,Holocene,,5,5,A,7,7
+8,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m2Forward,missing m2.inc,,"Size, AM groove stops above ED junction",very worn,5.22,,3.14,,,,,,,1.2,2252.775,Holocene,,5,5,A,7,7
+9,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,M1,,,AM groove absent,M1 broken and worn,,,3.72,,,,,,,1.02,2252.775,Holocene,,5,5,A,7,7
+10,Neotoma lepida,Neotoma lepida,R,mandible,lower M2,,,Burned,Buccal posterior reentrant deeper than anterior and angled down,,,,,,2.45,,,,,3.63,2252.775,Holocene,,5,5,A,7,7
+11,Neotoma fuscipes,Neotoma fuscipes,L,mandible,lower M2,,,,"No pits at base of grooves, Buccal posterior re-entrant deeper than anterior and angled up",,,,,,2.84,,,,,2.44,2252.775,Holocene,,5,5,A,7,7
+12,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1Forward,missing m1.inc,Burned,,Can't distinguish between fuscipes and cinerea,7.43,,3.65,,,,,,,,2252.775,Holocene,,5,5,A,7,7
+13,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"Pits, AM groove visible",very worn,,,3.82,,,,,,,0.79,2610.04,Holocene,,5,5,A,8,8
+14,Neotoma fuscipes,Neotoma fuscipes,L,mandible,lower M1,,,,"No pits, AM groove very shallow, Buccal REs are pinched, assymetric, and extend unequal depths into the tooth",worn,,,3.37,,,,,,,1.34,2610.04,Holocene,,5,5,A,8,8
+15,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1, ,,,"Big pits, strong grooves, AM groove all the way down",,,,3.67,,,,,,,4.18,2956.655,Holocene,,5,5,A,9,9
+16,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,M1Only,,,"Strong AM groove, all the way down",,,,3.52,,,,,,,4.29,2956.655,Holocene,,5,5,A,9,9
+17,Neotoma fuscipes,Neotoma fuscipes,L,mandible,mandible,M3-M2,,,"no pits, M2 posterior buccal, reentrant angled up, size",,,,,,,,,,,1.04,2956.655,Holocene,,5,5,A,9,9
+18,Neotoma lepida,Neotoma lepida,R,maxilla,maxilla,M2-M1,,,"no pits, AL groove on M1 shallow/gone, M@ lingual reentrant angled, size",,,,3.14,,2.72,,,,,1.79,2956.655,Holocene,,5,5,A,9,9
+19,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,M3-M1,,burned,"pits on M1 and M2, AL groove still strong even though teeth worn, M2 lingual reentrant horizontal, size",,,9.28,4.02,,2.94,,2.8,,,1.59,2956.655,Holocene,,5,5,A,9,9
+20,Neotoma lepida,Neotoma lepida,L,maxilla,upper M1,,,,"size, no pits, AL groove ends well above ED junction, scalloped buccal mesial loph",,,,3.2,,,,,,,3.28,2956.655,Holocene,,5,5,A,9,9
+21,Neotoma lepida,Neotoma lepida,R,mandible,lower M2,,,,"no pits, posterior buccal reentrant angled down, size",,,,,,2.54,,,,,2.07,3278.197,Holocene,,5,5,A,10,10
+22,Neotoma lepida,Neotoma lepida,L,mandible,mandible,M3-inc,missing m1-m3,,size,,5.2,8.26,,,,,,,,,4344.04,Holocene,,5,5,A,13,13
+23,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,complete,,,"strong grooves, AL groove all the way down, M2 lingual reentrant broad, M3 posterior buccal rentrant open and short, tissue attached",,,10.22,3.45,,2.74,,2.55,,,2.86,4700.091,Holocene,,5,5,A,14,14
+24,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,M2-M1,,,"AL groove shallow, ends high, M2 lingual rentrant angled, size. On reinspection, M2 lingual renetrents look broad.  RE pits visible.  Revising to cinerea.","Was originally fuscipes, but re-looked at it on 10/16/25 and think cinerea",,,3.72,,3,,,,,3.31,4700.091,Holocene,,5,5,A,14,14
+25,Neotoma fuscipes,Neotoma fuscipes,R,mandible,lower M2,,,,"Buccal posterior reentrant angled up, no pits, size",,,,,,2.71,,,,,1.98,4700.091,Holocene,,5,5,A,14,14
+26,Neotoma lepida,Neotoma lepida,L,mandible,mandible,M2-front,"missing inc., M1 broken",,"M2 buccal reentrant, angle depth, size, no pits",,4.09,,,,2.63,,,,,2.89,4700.091,Holocene,,5,5,A,14,14
+27,Neotoma lepida,Neotoma lepida,L,mandible,mandible,M3-M1,M1 & M3 broken,,"no pits, size",teeth very worn,,,,,2.79,,,,,1.51,4700.091,Holocene,,5,5,A,14,14
+28,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,M3-M1,missing all,,size,,,8,,,,,,,,,4700.091,Holocene,,5,5,A,14,14
+29,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,M2-M1,,,"strong AM groove, pits, wide buccal reentrants, size, tissue attached",,,,3.96,,3.11,,,,,4.1,5418.747,Holocene,,5,5,A,16,16
+30,Neotoma lepida,Neotoma lepida,L,maxilla,upper M2,,,,"lingual reentrant angular, buccal reentrant deep, no pits, size",,,,,,2.34,,,,,2.47,5825.517,Holocene,,5,5,A,17,17
+31,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,M2-M1,,,"AM groove absent, worn, no pits, size, M2 lingual reentrant, pinched",,,,3.74,,2.68,,,,,1.56,6142.319,Holocene,,5,5,A,18,18
+32,Neotoma lepida,Neotoma lepida,L,maxilla,upper M2,,,,"no pits, lingual renetrant angle, size",,,,,,2.46,,,,,2.62,6142.319,Holocene,,5,5,A,18,18
+33,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,"pits, strong AM groove all the way down",,,,3.8,,,,,,,2.44,6142.319,Holocene,,5,5,A,18,18
+34,Neotoma lepida,Neotoma lepida,R,mandible,lower M1,,,,"AM groove ends, before ED junction, no pits, size",,,,2.85,,,,,,,3.01,6142.319,Holocene,,5,5,A,18,18
+35,Neotoma sp.,Neotoma sp.,R,mandible,mandible,M!,missing M1,,,,,,,,,,,,,,6142.319,Holocene,,5,5,A,18,18
+36,Neotoma sp.,Neotoma sp.,unknown,mandible,mandible,,,Burned,,one tooth socket,,,,,,,,,,,2610.04,Holocene,,5,5,A,8,8
+37,Neotoma sp.,Neotoma sp.,R,mandible,mandible,M2,missing M2,Burned,,dark brown,,,,,,,,,,,5825.517,Holocene,,5,5,A,17,17
+48,Neotoma lepida,Neotoma lepida,L,mandible,mandible,M1 forward,missing all,,size,,5.06,,,,,,,,,,1926.551,Holocene,,5,5,A,6,6
+270,Neotoma fuscipes,Neotoma lepida,R,mandible,mandible,m1-m2,m1 anterior broken,,"m1 reentrant angles, no pits, buccal posterior on reentrant deeper than anterior and angled up","Lepida? Originally called fuscipes, but small and old.  Anterior loph rounded - no divet.",,,,,2.84,,,,,2.89,10106.895,Holocene,,5,5,A,22,22
+271,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m3-m1,"m1 socket broken, missing m3,m1",,size,,,,,,3.44,,,,,2.52,12061.11,Pleistocene,,5,5,A,24,24
+272,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,AM groove doesn't go all the way down but buccal REs are broad and extend the same depth into the tooth,very worn,,,3.91,,,,,,,2.97,12061.11,Pleistocene,,5,5,A,24,24
+273,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,,buccal reentrants wide. Same depth,,,,,,3.06,,,,,3.31,12061.11,Pleistocene,,5,5,A,24,24
+274,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,"anterior groove goes all the way down, pits",,,,3.63,,,,,,,3.04,12495.791,Pleistocene,,5,5,A,25,25
+275,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"AM groove all the way down, buccal pits, buccal reentrants broad, not pinched",,,,3.81,,,,,,,2.65,12760.688,Pleistocene,,5,5,A,26,26
+276,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,"Am groove all the way down, pits, very high crowned still",beautiful tooth,,,3.75,,,,,,,5.37,12760.688,Pleistocene,,5,5,A,26,26
+277,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,"Am groove all the way down, pits, very high crowned still",,,,3.71,,,,,,,4.97,14001.87,Pleistocene,,5,5,A,27,27
+278,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 forward,missing all,,size,,6.64,,3.61,,,,,,,,14001.87,Pleistocene,,5,5,A,27,27
+279,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,"AM groove all the way, pits",,,,3.73,,,,,,,3.11,14495.475,Pleistocene,,5,5,A,28,28
+280,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,"pits, re-entrant angles and oppenness, AM groove all the way down but not very pinched (?)",,,,3.67,,,,,,,2.59,14495.475,Pleistocene,,5,5,A,28,28
+281,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M3,,,,"strong grooves. Lingual re-entrant broad, post buccal RE fairly open",,,,,,,,2.26,,,2.86,14495.475,Pleistocene,,5,5,A,28,28
+282,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,pits are like holes,incredibly worn,,,3.94,,,,,,,0.96,14495.475,Pleistocene,,5,5,A,28,28
+283,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,,"strong grooves to pits, open lingual re-entrant",,,,,,2.8,,,,,4.35,14858.687,Pleistocene,,5,5,A,29,29
+517,Neotoma c.f. cinerea,Neotoma cinerea,R,maxilla,maxilla,complete,edent,,size,,,10.79,,,,,,,,,14001.87,Pleistocene,,5,5,A,27,27
+518,Neotoma sp.,Neotoma sp.,L,mandible,mandible,m1 only,edent,Burned,"double rooted m1, size",,,,,,,,,,,,14001.87,Pleistocene,,5,5,A,27,27
+519,Neotoma sp.,Neotoma sp.,L,mandible,mandible,m1-m3 only,edent,,"double rooted m1, size","m1, m3 alveolae broken",,,,,,,,,,,12061.11,Pleistocene,,5,5,A,24,24
+522,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m1 forward,m1 broken,,"m1 root, fenestra position, size",,,8.21,,,,,,,,,12495.791,Pleistocene,,5,5,A,25,25
+1143,Neotoma fuscipes,Neotoma fuscipes,R,mandible,mandible,m2 forward,missing incisor,Burned,"AM groove on m1 not present, tooth worn but would still be visible on N. cinerea, m2 buccal posterior angle extendsin further than anterior and is angled",,,,3.58,1.93,3.16,2.4,,,,0.6,4289.818,Holocene,,5,12,A,2,2
+1144,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,complete,edent,,,,,10.37,,,,,,,,,4932.03,Holocene,,5,12,A,4,4
+1145,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1 only,edent,Burned,,,,,,,,,,,,,4932.03,Holocene,,5,12,A,4,4
+1146,Neotoma fuscipes,Neotoma fuscipes,L,mandible,mandible,m2-m3,,,buccal RE's on m2,,,,,,2.77,2.13,,,,,5302.199,Holocene,,5,12,A,5,5
+1147,Neotoma lepida,Neotoma lepida,L,mandible,mandible,complete,edent,,size,,4.57,8.05,,,,,,,,,5302.199,Holocene,,5,12,A,5,5
+1148,Neotoma lepida,Neotoma lepida,R,mandible,mandible,complete,missing m1-m3,,size,,5.34,8.17,,,,,,,,2,5302.199,Holocene,,5,12,A,5,5
+1149,Neotoma lepida,Neotoma lepida,R,mandible,mandible,m2 forward,"missing m2, incisor, m1 roots only",Burned,size,,5.06,,3.11,1.55,,,,,,,5302.199,Holocene,,5,12,A,5,5
+1150,c.f. Neotoma fuscipes,Neotoma fuscipes,L,mandible,mandible,m2 forward,,,buccal RE's on m1 and anterior m1 loph shape,encrusted and crumbling,,,3.78,2.61,,,,,,,6055.273,Holocene,,5,12,A,7,7
+1151,Neotoma lepida,Neotoma lepida,R,mandible,mandible,m2 forward,edent,Burned,size,diastema broken,,,,,,,,,,,6345.524,Holocene,,5,12,A,8,8
+1152,Neotoma lepida,Neotoma lepida,L,mandible,lower M2,,,,"buccal RE's open not pinched, extend all the way down tooth",,,,,,3.11,2.21,,,,3.41,7120.808,Holocene,,5,12,A,10,10
+1153,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"AM groove all the way down, PE pits",,,,3.76,2.13,,,,,,2.54,7120.808,Holocene,,5,12,A,10,10
+1154,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,complete,edent,Burned,size,,6.7,10.57,,,,,,,,,12037.622,Pleistocene,,5,12,A,17,17
+1155,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,lower M2,,,Burned,"buccal RE's, grooves all the way down",,,,,,3.45,2.5,,,,1.94,12396.27,Pleistocene,,5,12,A,19,19
+1156,c.f. Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,deep RE's to pits,"anterior, buccal broken",,,,,,2.28,,,,3.56,12396.27,Pleistocene,,5,12,A,19,19
+1157,c.f. Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,deep RE's to pits,,,,,,3.27,2.38,,,,3.88,12396.27,Pleistocene,,5,12,A,19,19
+1158,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,"deep RE's to pits, wide open buccal angles",anterior loph broken,,,,2.32,,,,,,3.2,12396.27,Pleistocene,,5,12,A,19,19
+1159,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m1 forward,edent,Burned,,,6.81,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19
+1160,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 forward,edent,Burned,,,,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19
+1161,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m1 forward,,,"Am groove, pits, RE buccal angles",,6.27,,3.75,1.91,,,,,,4.19,12396.27,Pleistocene,,5,12,A,19,19 ash
+1162,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,posterior loph broken,Burned,"groove to pits, open buccal RE angles",anterior loph broken,,,,,,2.07,,,,4.17,12396.27,Pleistocene,,5,12,A,19,19 ash
+1163,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,"groove to pits, open buccal RE angles",,,,,,3.2,2.43,,,,2.65,12396.27,Pleistocene,,5,12,A,19,19 ash
+1164,Neotoma sp.,Neotoma sp.,R,mandible,mandible,m1 forward,edent,Burned,"alveolae, but really big?",diastema broken,,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19 ash
+1165,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 back,edent,Burned,,,,10.72,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19 ash
+1166,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,anterior and posterior lophs broken,Burned,"buccal RE surfaces, size",,,,,,,2.19,,,,2.28,12510.088,Pleistocene,,5,12,A,20,20
+1167,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,beautiful pits and AM groove,,,,3.66,1.97,,,,,,4.75,12510.088,Pleistocene,,5,12,A,20,20
+1168,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,beautiful pits and AM groove,,,,3.66,1.87,,,,,,3.28,12510.088,Pleistocene,,5,12,A,20,20
+1169,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,beautiful pits and AM groove,,,,3.88,2.25,,,,,,2.32,12510.088,Pleistocene,,5,12,A,20,20
+1170,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,beautiful pits and AM groove,,,,4.06,2.1,,,,,,3.43,12510.088,Pleistocene,,5,12,A,20,20
+1171,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m2 only,missing m2,Burned,,,,,,,,,,,,,12510.088,Pleistocene,,5,12,A,20,20
+1172,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,anterior lophs broken,Burned,pits and RE grooves,,,,,,,2.49,,,,2.65,12625.737,Pleistocene,,5,12,A,21,21 ash
+1173,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,AM groove,,,,3.98,2.09,,,,,,2.72,12625.737,Pleistocene,,5,12,A,21,21 ash
+1174,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,anterior lophs broken,Burned,AM groove,,,,3.71,2.26,,,,,,2.49,12625.737,Pleistocene,,5,12,A,21,21 ash
+1175,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,AM groove,,,,3.87,1.92,,,,,,2.31,12625.737,Pleistocene,,5,12,A,21,21 ash
+1176,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.19,2.19,,,,2.86,12625.737,Pleistocene,,5,12,A,21,21 ash
+1177,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,,,,,,,3.28,2.26,,,,3.4,12625.737,Pleistocene,,5,12,A,21,21 ash
+1178,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,anterior lophs broken,Burned,,,,,,1.96,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 ash
+1179,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 only,edent,Burned,size,,,,,,,,,,,3.39,12625.737,Pleistocene,,5,12,A,21,21 ash
+1180,Neotoma sp.,Neotoma sp.,R,mandible,mandible,diastema,edent,Burned,,,6.22,,,,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 ash
+1181,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m2 forward,edent,Burned,,,6.59,,,,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 ash
+1182,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,RE pits,anterior loph broken,,,,2.17,,,,,,2.61,12625.737,Pleistocene,,5,12,A,21,21 IB + ash
+1183,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,posterior loph broken,,,,,,2.35,,,,2.07,12625.737,Pleistocene,,5,12,A,21,21 IB + ash
+1184,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,missing m3,Burned,"m1 pits, AM groove",,7.46,10.5,3.61,2,2.89,2.06,,,,4.39,12786.481,Pleistocene,,5,12,A,22,22 ash
+1185,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,broken in two,,,4.17,2.24,,,,,,3.39,12786.481,Pleistocene,,5,12,A,22,22
+1186,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,,,,,3.52,1.86,,,,,,4.6,12786.481,Pleistocene,,5,12,A,22,22
+1187,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,,not burned,,,3.76,1.99,,,,,,,13335.77433,Pleistocene,,5,12,A,23,23
+1188,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,anterior loph broken,,,,2.22,,,,,,3.18,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1189,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,,,,,3.97,2.08,,,,,,3.71,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1190,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,,,,3.66,1.96,,,,,,3.49,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1191,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,,,,,3.73,1.92,,,,,,4.12,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1192,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,,,,4,2.21,,,,,,2.43,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1193,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,anterior loph broken,,,,2.13,,,,,,3.16,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1194,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,,,,4.18,2.28,,,,,,2.93,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1195,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,,,,3.77,1.95,,,,,,3.9,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1196,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,,anterior loph broken,,,,1.98,,,,,,3.31,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1197,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.01,2.2,,,,3.96,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1198,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.12,1.97,,,,4.69,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1199,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,,,,,,,3.11,2.18,,,,3.31,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1200,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.23,2.08,,,,3.36,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1201,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,2.99,1.94,,,,4.95,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1202,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,2.98,2.17,,,,3.86,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1203,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,anterior loph broken,,,,,3.14,2.17,,,,3.76,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1204,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,RE pits,very worn,,,,,3.57,2.61,,,,1.92,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1205,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,"anterior loph broken, very worn",,,,,3.51,2.49,,,,2.71,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1206,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 forward,,Burned,,,,,,,,,,,,,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1207,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,"missing m2, m3",Burned,RE pits to grooves,,,10.57,3.63,1.94,,,,,,3.98,14062.387,Pleistocene,,5,12,A,24,24
+1208,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 forward,edent,Burned,,,6.88,,,,,,,,,,14062.387,Pleistocene,,5,12,A,24,24
+1209,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,RE pits to grooves,,,,3.82,1.9,,,,,,4.1,14062.387,Pleistocene,,5,12,A,24,24
+1210,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,Burned,RE pits to grooves,,,,3.86,1.9,,,,,,3.37,14062.387,Pleistocene,,5,12,A,24,24
+1211,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,RE pits to grooves,,,,,,3.32,2.2,,,,4.54,14062.387,Pleistocene,,5,12,A,24,24
+1212,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,RE pits to grooves,,,,,,3.18,2.29,,,,2.33,14062.387,Pleistocene,,5,12,A,24,24
+1213,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m3 forward,"missing incisor, m3",Burned,,,7.64,10.35,4.04,2.07,,,,,,3.4,14358.419,Pleistocene,,5,12,A,25,25 IB Ash + Charred
+1214,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,RE pits,lingual side gone,,,3.44,,,,,,,1.9,14358.419,Pleistocene,,5,12,A,25,25 IB Ash + Charred
+1215,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,"missing incisor, m1, m3",Burned,,,7.68,10.46,,,3.25,2.19,,,,3.06,14358.419,Pleistocene,,5,12,A,25,25 IB Ash + Charred
+1216,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m2 forward,,,,not burned,,,3.69,1.98,,,,,,,14726.938,Pleistocene,,5,12,A,27,27
+1217,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m1 only,,Burned,,,,,3.56,1.8,,,,,,4.61,14726.938,Pleistocene,,5,12,A,27,27
+1218,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,Burned,,,,,3.81,1.98,,,,,,4.48,14726.938,Pleistocene,,5,12,A,27,27
+1219,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,,not burned,,,4.06,2.1,,,,,,4.64,14726.938,Pleistocene,,5,12,A,27,27
+1220,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.06,1.92,,,,4.93,14726.938,Pleistocene,,5,12,A,27,27
+1221,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,,,,,,,3.58,2.45,,,,3.56,14726.938,Pleistocene,,5,12,A,27,27
+1222,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,,,,,,,3.07,1.91,,,,4.3,14726.938,Pleistocene,,5,12,A,27,27
+1223,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,Burned,,just erupted,,,,,2.89,1.92,,,,2.78,14904.074,Pleistocene,,5,12,A,28,28
+1224,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,,pits visible,"not burned, very worn",,,,,3.09,2.33,,,,1.24,15281.587,Pleistocene,,5,12,A,29,29
+1225,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,,not burned,,,3.72,2.12,,,,,,,16807.253,Pleistocene,,5,12,A,35,35
+1276,Neotoma c.f. cinerea,Neotoma cinerea,L,mandible,lower M1,m1 only,,,illustration in notes,"unlike any vole I've seen!, big",,,3.08,2.01,3.08,2.01,,,,,16807.253,Pleistocene,,5,12,A,35,35
+1535,Neotoma sp.,Neotoma sp.,L,mandible,mandible,front of ramus,edent,Burned,"size, shape",,,,,,,,,,,,12786.481,Pleistocene,,5,12,A,22,22
+1537,Neotoma sp.,Neotoma sp.,R,mandible,mandible fragment,ramus,edent,burned,"mental foramen, shape",,,,,,,,,,,,12510.088,Pleistocene,,5,12,A,20,20
+1546,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1 only,,,,anterior loph broken,,,,2.38,,,,,,3.68,5302.199,Holocene,,5,12,A,5,5
+1547,c.f. Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m3 only,,,,broken in multiple pieces,,,,,,,,,,,5302.199,Holocene,,5,12,A,5,5
+1548,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,burned,,,,,3.91,2.35,,,,,,2.09,5625.062,Holocene,,5,12,A,6,6
+1549,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1-m2,,,,,,,,,,,,,,,5625.062,Holocene,,5,12,A,6,6
+1550,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 only,,,,,,,,,,,,,,,5625.062,Holocene,,5,12,A,6,6
+1551,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,complete,,,,,,,,,,,,,,,12037.622,Pleistocene,,5,12,A,17,17
+1552,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,,,,,,,,,,,,2.11,12396.27,Pleistocene,,5,12,A,19,19
+1553,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,,,,,3.9,2.42,,,,,,4.37,12396.27,Pleistocene,,5,12,A,19,19
+1554,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,,,,,,,,,,,4.97,12396.27,Pleistocene,,5,12,A,19,19
+1555,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,,,,,2.22,,,,,,2.65,12396.27,Pleistocene,,5,12,A,19,19
+1556,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,,,,3.47,2.23,,,,,,4.2,12396.27,Pleistocene,,5,12,A,19,19 ash
+1557,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,complete,,,,,,,3.78,2.44,,,,,,1.91,12396.27,Pleistocene,,5,12,A,19,19 ash
+1558,Neotoma sp.,Neotoma sp.,L,maxilla,maxilla,complete,,,,,,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19 ash
+1559,Neotoma sp.,Neotoma sp.,L,maxilla,maxilla,m1 only,,,,,,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19 ash
+1560,Neotoma sp.,Neotoma sp.,R,maxilla,maxilla,m1 only,,,,,,,,,,,,,,,12396.27,Pleistocene,,5,12,A,19,19 ash
+1561,Neotoma sp.,Neotoma sp.,R,maxilla,maxilla,complete,,,,,,,,,,,,,,,12510.088,Pleistocene,,5,12,A,20,20
+1562,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1-m2,,,,,,,,,,,,,,,12510.088,Pleistocene,,5,12,A,20,20
+1563,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,,,,3.44,2.09,,,,,,3.56,12510.088,Pleistocene,,5,12,A,20,20
+1564,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,,,,,,,,,,,,4.09,12510.088,Pleistocene,,5,12,A,20,20
+1565,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,,,,,3.64,2.41,,,,,,3.08,12510.088,Pleistocene,,5,12,A,20,20
+1566,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,"wide lingual RE, deep grooves",,,,,,3.11,2.41,,,,3.13,12510.088,Pleistocene,,5,12,A,20,20
+1567,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,,,,,,,2.83,2.14,,,,3.01,12510.088,Pleistocene,,5,12,A,20,20
+1568,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,,"worn broken, big",,,,,,3.06,,,,1,12510.088,Pleistocene,,5,12,A,20,20
+1569,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,,,,,,,2.85,2.34,,,,2.39,12510.088,Pleistocene,,5,12,A,20,20
+1570,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,"anterior groove, pits",,,,3.86,2.37,,,,,,3.01,12625.737,Pleistocene,,5,12,A,21,21 ash
+1571,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,Burned,,,,,3.65,2.54,,,,,,2.95,12625.737,Pleistocene,,5,12,A,21,21 ash
+1572,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,lingual broken,,,3.34,,,,,,,3.02,12625.737,Pleistocene,,5,12,A,21,21 ash
+1573,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,wide lingual RE deep grooves,,,,,,3,2.47,,,,3.41,12625.737,Pleistocene,,5,12,A,21,21 ash
+1574,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,,,,,,,2.97,2.46,,,,2.45,12625.737,Pleistocene,,5,12,A,21,21 ash
+1575,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 only,edent,Burned,,white,,,,,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 ash
+1576,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 only,edent,Burned,,,,,,,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 ash
+1577,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1 only,edent,Burned,,,,,,,,,,,,,12625.737,Pleistocene,,5,12,A,21,21 IB + ash
+1578,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,not burned,,,,2.55,,,,,,2.05,12625.737,Pleistocene,,5,12,A,21,21 IB + ash
+1579,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,"wide lingual RE, deep grooves",,,,,,3.03,2.51,,,,,12786.481,Pleistocene,,5,12,A,22,22
+1580,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,"wide lingual RE, deep grooves",,,,,,3.04,2.25,,,,4.3,12786.481,Pleistocene,,5,12,A,22,22 ash
+1581,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1 only,,Burned,RE grooves and pits,,,,3.77,2.31,,,,,,4.35,12786.481,Pleistocene,,5,12,A,22,22 ash
+1582,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1 only,,Burned,,,,,3.7,2.36,,,,,,4.01,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1583,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,anterior loph broken,,,,2.54,,,,,,3.23,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1584,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,Burned,,,,,3.52,2.22,,,,,,3.94,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1585,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,Burned,,,,,3.64,2.45,,,,,,2.68,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1586,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,,,,3.38,2.37,,,,,,3.35,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1587,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,Burned,,,,,3.53,2.18,,,,,,3.93,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1588,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,posterior loph broken,,,,2.4,,,,,,3.58,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1589,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,,,,3.66,2.53,,,,,,2.97,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1590,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,posterior loph broken,,,,2.27,,,,,,2.66,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1591,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,,,,3.43,2.2,,,,,,3.6,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1592,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,Burned,,just erupted,,,3.58,2.05,,,,,,3.61,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1593,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,"deep grooves, open lingual RE angle",,,,,,3.2,2.46,,,,2.41,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1594,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M3,,,Burned,"deep grooves, open lingual RE angle",,,,,,,,2.59,2.2,,2.03,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1595,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,"deep grooves, open lingual RE angle",post loph broken,,,,,,2.41,,,,2.78,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1596,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,"deep grooves, open lingual RE angle",buccal/lingual edges worn,,,,,2.95,1.78,,,,3.5,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1597,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,"deep grooves, open lingual RE angle",,,,,,3.19,2.64,,,,3.27,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1598,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,"deep grooves, open lingual RE angle",,,,,,2.92,2.15,,,,2.84,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1599,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,Burned,"deep grooves, open lingual RE angle",anterior/posterior lophs broken,,,,,,2.7,,,,0.98,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1600,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,,,Burned,,white,,9.61,,,,,,,,,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1601,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,,,Burned,,,,,,,,,,,,,13335.77433,Pleistocene,,5,12,A,23,23 ash
+1602,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,,anterior/posterior lophs broken,,,,,,,,,,2.06,14062.387,Pleistocene,,5,12,A,24,24
+1603,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,,,not burned,,,,,2.63,2.2,,,,,14062.387,Pleistocene,,5,12,A,24,24
+1604,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,Burned,,posterior loph broken,,,,,,2.36,,,,3.67,14358.419,Pleistocene,,5,12,A,25,25 IB Ash + Charred
+1605,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,,,,"RE, pits",teeth very worn,,,3.8,2.42,,,,,,1.13,14522.389,Pleistocene,,5,12,A,26,26
+1606,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1-m2 only,,Burned,,,,,3.73,2.35,3.35,2.43,,,,1.42,14522.389,Pleistocene,,5,12,A,26,26
+1607,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,just erupted,,,3.59,2.22,,,,,,,14522.389,Pleistocene,,5,12,A,26,26
+1608,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M3,,,Burned,,very worn,,,,,,,2.88,2.31,,1.73,14522.389,Pleistocene,,5,12,A,26,26
+1609,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,Burned,,posterior broken,,,,2.42,,,,,,1.98,14726.938,Pleistocene,,5,12,A,27,27
+1610,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,Burned,,just erupted,,,,,2.64,2.03,,,,3.8,14726.938,Pleistocene,,5,12,A,27,27
+1611,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M3,,,Burned,,,,,,,,,2.5,2,,2.33,15736.168,Pleistocene,,5,12,A,31,31
+1612,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,,,not burned,,,,,3.01,2.18,,,,3.5,15736.168,Pleistocene,,5,12,A,31,31
+1669,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m1-m3,edent,Burned,size,m1 and m3 alveolae broken,,,,,,,,,,,6657.4,Holocene,,5,12,A,9,9
+1670,Neotoma fuscipes,Neotoma fuscipes,R,maxilla,upper M1,,,,"AM groove weak/ends, no pits, size",,,,3.43,,,,,,,1.87,6142.319,Holocene,,5,5,A,18,18
+1682,Neotoma sp.,Neotoma sp.,L,mandible,mandible,m3 forward,edent,burned,"size, shape",,,7.43,,,,,,,,,12786.481,Pleistocene,,5,12,A,22,22
+1690,Neotoma lepida,Neotoma lepida,R,mandible,mandible,m1 forward,,,"AM groove stops before enamel cap, posterior buccal RE's same size and pinched, size",,5.31,,3.08,1.82,,,,,,2.71,2366.5575,Holocene,1704,2,4,C,13,13
+1691,Neotoma lepida,Neotoma lepida,R,mandible,lower M1,,,,"AM groove stops before enamel cap, no RE pits, size",,,,3.1,1.66,,,,,,2.51,2366.5575,Holocene,1704,2,4,C,13,13
+1692,Neotoma lepida,Neotoma lepida,R,mandible,lower M2,,,,Posterior buccal RE narrow and angled down,,,,,,2.75,1.94,,,,3.19,2366.5575,Holocene,1704,2,4,C,13,13
+1693,Neotoma c.f. fuscipes,Neotoma cinerea,L,mandible,lower M2,,,,"Size, buccal RE shape and depth (anterior/posterior difference)",,,,,,2.55,1.92,,,,1.63,2366.5575,Holocene,1704,2,4,C,13,13
+1694,Neotoma lepida,Neotoma lepida,L,maxilla,upper M1,,,,"Size, AL groove stops part way down",Broken cusps on buccal and lingual sides,,,2.81,1.76,,,,,,3.03,2366.5575,Holocene,1704,2,4,C,13,13
+1695,Neotoma sp.,Neotoma sp.,L,maxilla,maxilla,m1 only,missing m1,,,"Could be socket for 1694, but not a perfect fit, uncliear if that is b/c 1694 is broken",,,,,,,,,,,2366.5575,Holocene,1704,2,4,C,13,13
+1721,Neotoma lepida,Neotoma lepida,R,mandible,lower M2,,,,"Buccal RE angles, Size",,,,,,2.74,1.86,,,,,2366.5575,Holocene,1704,2,4,C,13,13
+1738,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m2 forward,,,"RE pits visible at ED junction, lingual Res on m1 and m2 are open, not pinched, Size",Teeth very worn,,,3.56,2.51,2.76,2.1,,,,1.51,12848.375,Pleistocene,1734,5,5,B,29,29
+1739,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,complete,missing m1,,"RE pits visible at ED junction, lingual Res on m1 and m2 are open, not pinched, Size",,,8.46,,,3.06,,2.48,,,0.96,12848.375,Pleistocene,1734,5,5,B,29,29
+1859,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m1 backward,"missing m1,m2",,"Size, m3 RE pits",m1 socket broken,,,,,,,2.07,1.5,,2.07,12848.375,Pleistocene,1734,5,5,B,29,29
+1860,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 backward,edent,,Size,socket edges broken,,11.5,,,,,,,,,12848.375,Pleistocene,1734,5,5,B,29,29
+1861,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1 only,,,"RE pits, broad RE's",,,,3.66,2.35,,,,,,,12848.375,Pleistocene,1734,5,5,B,29,29
+1862,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1 only,edent,,Size,,,,,,,,,,,,12848.375,Pleistocene,1734,5,5,B,29,29
+1863,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,upper M3,anterior half,,,"Size, cusps",,,,,,,,,,,,12848.375,Pleistocene,1734,5,5,B,29,29
+1905,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,"Broad REs, big RE pits",,,,3.62,1.86,,,,,,4.5,12848.375,Pleistocene,1734,5,5,B,29,29
+1906,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m3 backward,edent,Burned,Size,,,,,,,,,,,,12848.375,Pleistocene,1734,5,5,B,29,29
+1907,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,complete,missing m3,,"Lingual REs broad and open, RE pits",,,10.15,4.02,,,,,,,3.96,12848.375,Pleistocene,1734,5,5,B,29,29
+1912,Neotoma lepida,Neotoma lepida,L,maxilla,maxilla,m2 forward,missing posterior m2,,"Size, enamel",,,,3.34,,,,,,,2.91,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1913,Neotoma lepida,Neotoma lepida,L,maxilla,maxilla,m1 forward,,,"Size, enamel",,,,3.27,,,,,,,1.88,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1914,Neotoma lepida,Neotoma lepida,L,mandible,mandible,complete,m1 broken,,"Size, enamel",,,7.4,2.69,,,,,,,1.74,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1915,Neotoma lepida,Neotoma lepida,L,mandible,mandible,complete,,,"Size, enamel",crumbly bone,5.73,7.39,2.62,,,,,,,2.66,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1916,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m3 forward,,,"Size, broad buccal REs, RE pits",crumbly bone,,9.31,3.85,2,2.94,2.06,,,,4.83,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1917,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,complete,edent,burned grey,Size,"diastema broken, looks old",,9.87,,,,,,,,,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1918,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"RE pits, broad RE's",Beautiful RE pits!,,,3.73,,,,,,,5.13,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1919,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,,"RE pits, broad RE's",,,,,,2.89,,,,,5.05,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+1920,Neotoma lepida,Neotoma lepida,L,mandible,lower M2,,,,"RE angles, size",,,,,,2.39,,,,,2.33,0,Modern,,0,0,Aug 2023 Surface Sweep,Loose Bone Sample,
+2013,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,complete,,,Broad REs,,,9.29,,,,,,,,,6518.627,Holocene,1704,5,12,C,14,14
+2014,Neotoma lepida,Neotoma lepida,R,maxilla,maxilla,complete,,,"Size small, narrow REs, angles more similar to lepida than fuscipes",,,7.5,,,,,,,,1.81,6518.627,Holocene,1704,5,12,C,14,14
+2054,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,complete,"missing m1,m3",,"Size, no RE pits, pinched RE angles",,,8.13,,,2.33,1.86,,,,,4771.8755,Holocene,1704,5,12,C,9,9
+2080,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,"missing m2,m3",,RE pits and shape of buccal Res,,,,3.84,2.07,,,,,,,5144.454,Holocene,1704,5,12,C,10,10
+2100,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,diastema forward,,,"DL > 7.4, Size, diastema shape, foramen position",,,,,,,,,,,,7536.015,Holocene,,5,12,C,16,16
+2119,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 only,edent,,Alveolar pattern,,,,,,,,,,,,4771.8755,Holocene,1704,5,12,C,9,9
+2156,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1-m2 only,edent,,Size,,,,,,,,,,7.97,,6857.983,Holocene,1704,5,12,C,15,15
+2190,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m3 forward,missing inc,burned,RE pits and AR groove depth,,,,,,,,,,,1.45,5144.454,Holocene,1704,5,12,C,10,10
+2198,Neotoma cinerea,Neotoma cinerea,B,mandible,mandible,m1 forward,,,AR groove depth,Incisors fragmented,,,3.84,,,,,,,,5473.852,Holocene,1704,5,12,C,11,11
+2199,Neotoma sp.,Neotoma sp.,R,mandible,mandible,m2 forward,missing inc,,Tooth shape,m1 fragmentary,5,,,,2.85,1.98,,,,,5473.852,Holocene,1704,5,12,C,11,11
+2239,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"RE pits, anterior RE depth",,,,3.51,1.7,,,,,,3.76,4099.12875,Holocene,1704,5,12,C,7,7
+2240,Neotoma lepida,Neotoma lepida,R,maxilla,maxilla,,,,90 degree angle of m3 posterior buccal RE,,,,,,,,,,,2.31,4099.12875,Holocene,1704,5,12,C,7,7
+2267,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m3 forward,,,"Size, AR groove depth",,5.94,7.66,2.95,,,,,,,,4099.12875,Holocene,1704,5,12,C,7,7
+2268,Neotoma c.f. cinerea,Neotoma cinerea,L,mandible,mandible,m2 only,,,"Size, buccal REs",,,,,,2.66,1.75,,,,3.64,4099.12875,Holocene,1704,5,12,C,7,7
+2296,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m1 forward,edent,,Size,,,,,,,,,,,,4446.4985,Holocene,,5,12,C,8,8
+2343,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m3 forward,,,RE pits,,7.5,9.7,,2.07,,,,,,,3390.446,Holocene,1704,5,12,C,5,5
+2344,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m3 forward,,,RE pits,,8,9.56,,1.95,,,,,,1.56,3390.446,Holocene,1704,5,12,C,5,5
+2362,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m1-m2 only,,,"RE depth, broad REs",Bag also says 5/12C-18-CleanUp in shaky handwriting.  18-7 looks like was assigned later. M1W remeasured at 1.65,,,3.58,1.65,,,,,6.59,3.03,9704.9595,Holocene,1830,5,12,C,18,18
+2373,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"Anterior groove depth, RE pits",,,,3.65,1.81,,,,,,3.6,10356.74,Holocene,1830,5,12,C,19,19
+2402,Neotoma lepida,Neotoma lepida,L,mandible,lower M1,,,burned,Size,,,,2.9,,,,,,,3.48,9704.9595,Holocene,,5,12,C,18,18
+2403,Neotoma sp.,Neotoma sp.,L,mandible,mandible,m1-m2 only,edent,,"Size, alveolar pattern",,,,,,,,,,,,9704.9595,Holocene,,5,12,C,18,18
+2404,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m2 forward,"missing inc,m1",,Size,,5.67,,,,2.73,,,,,,9704.9595,Holocene,,5,12,C,18,18
+2408,Neotoma lepida,Neotoma lepida,R,maxilla,upper M2,,,,Size,extremely worn,,,,,2.64,,,,,,9704.9595,Holocene,,5,12,C,18,18
+2417,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,,RE pits,,,,,,2.9,,,,,3.84,11295.64833,Holocene,1803,5,12,C,20,20
+2427,Neotoma lepida,Neotoma lepida,B,maxilla,skull,complete,,,"L-shaped m3 posterior buccal RE, small size",,11.22,7.71,3.34,,2.29,,1.83,,,1.67,0,Modern,,0,0,Aug 2023 Surface Sweep,Pellets,
+2428,Neotoma lepida,Neotoma lepida,R,mandible,mandible,complete,,,"Flared out buccal lph on m1, assymetric connector on m3",,5.81,7.73,3.28,,2.3,,2.12,,,1.48,0,Modern,,0,0,Aug 2023 Surface Sweep,Pellets,
+2434,Neotoma sp.,Neotoma sp.,R,maxilla,premax-maxilla,complete,"missing m1,m2,m3",,"Size, 2 ridges inside tooth cavity",,5.47,,,,,,,,,,0,Modern,,0,0,Aug 2023 Surface Sweep,Pellets,
+2464,Neotoma cin.fusc,Neotoma cin.fusc,B,mandible,mandible,diastema forward,,,"Size, shape",,,,,,,,,,,,11685.8245,Pleistocene,1830,5,12,C,21,
+2465,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 forward,edent,burned,Size,,,,,,,,,,,,11685.8245,Pleistocene,1830,5,12,C,21,
+2467,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,Anteriormedial groove depth,,,,3.75,1.96,,,,,,3.34,11685.8245,Pleistocene,1830,5,12,C,21,
+2468,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,,"Shape, RE pits",,,,,,3.27,2.39,,,,3.15,11685.8245,Pleistocene,1830,5,12,C,21,
+2480,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m2 backward,missing m3,,"Size, RE pits",,,,,,2.89,2.19,,,,,11685.8245,Pleistocene,1830,5,12,C,21,
+2486,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,burned,Anteriormedial groove depth,,,,3.61,2.39,,,,,,2.09,12317.574,Pleistocene,1830,5,12,C,24,1-B Ash Mix
+2487,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1 forward,,burned,Anteriormedial groove depth,posterior broken,,,,2.53,,,,,,2.19,12431.882,Pleistocene,1830,5,12,C,25,1-B Ash Mix
+2493,Neotoma sp.,Neotoma sp.,L,maxilla,maxilla,m1 only,edent,burned,Alveolar pattern,,,,,,,,,,,,12098.897,Pleistocene,1830,5,12,C,23,
+2571,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,burned,RE pits,,,,3.81,1.99,,,,,,2.98,12317.574,Pleistocene,1830,5,12,C,24,ASH
+2572,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,burned,RE pits,,,,,,3.1,2.39,,,,4.11,12317.574,Pleistocene,1830,5,12,C,24,ASH
+2573,Neotoma sp.,Neotoma sp.,unknown,unknown,molar fragment,,,burned,crown shape,,,,,,,,,,,,12317.574,Pleistocene,1830,5,12,C,24,ASH
+2574,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1 forward,,burned,"Size, RE groove extends all the way down",Was initially called N. fuscipes by SWH.  Tooth is very worn and the crown is broken.,,,3.92,,,,,,,1.76,12317.574,Pleistocene,1830,5,12,C,24,ASH
+2576,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2-m3 only,edent,burned white,"Size, alveolar pattern",,,,,,,,,,,,12317.574,Pleistocene,1830,5,12,C,24,ASH
+2602,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m2 forward,edent,burned,Size,,,,,,,,,,7.75,,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2603,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1 forward,,burned white,"Size, RE pits, open RE angles",Tooth loose. Replaced in socket b/c fit well and same color,,,4.12,2.72,,,,,,1.99,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2604,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,complete,"missing m1,m2,m3",burned grey,Size,,,10.01,3.98,,,,,,,,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2605,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,complete,edent,burned,,,7.68,10.4,,,,,,,,,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2606,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,complete,edent,burned glossy black,,"broken in half at m1, AL measurement ()",6.92,10.27,,,,,,,,,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2607,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m1 forward,edent,burned,,,7.19,,,,,,,,,,12098.897,Pleistocene,1830,5,12,C,23,ASH Bone
+2666,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,burned,Re pits,,,,,,3.23,2.11,,,,4,12560.063,Pleistocene,1829,5,12,C,26,
+2667,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,burned,Re pits,,,,3.33,1.95,,,,,,3.92,12560.063,Pleistocene,1829,5,12,C,26,
+2668,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,burned,Re pits,,,,3.72,2.11,,,,,,3.52,12560.063,Pleistocene,1829,5,12,C,26,
+2669,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,burned,Re pits,,,,3.76,2.03,,,,,,2.84,12560.063,Pleistocene,1829,5,12,C,26,
+2670,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,posterior fragment only,,burned,Re pits,,,,,2.35,,,,,,2.1,12560.063,Pleistocene,1829,5,12,C,26,
+2671,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,anterior 3/4,,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,3.72,2.45,,,,,,2.6,12560.063,Pleistocene,1829,5,12,C,26,
+2672,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,2.99,2.43,,,,1.03,12560.063,Pleistocene,1829,5,12,C,26,
+2673,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,2.91,2.61,,,,,12560.063,Pleistocene,1829,5,12,C,26,
+2674,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M3,,,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,,,2.55,,,1.64,12560.063,Pleistocene,1829,5,12,C,26,
+2675,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M3,,,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,,,2.7,,,1.04,12560.063,Pleistocene,1829,5,12,C,26,
+2676,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m2 forward,missing m1,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,3.09,2.47,,,,1.9,12560.063,Pleistocene,1829,5,12,C,26,
+2677,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m2 backward,missing m2,burned,"Anterior lingual groove depth, lingual and buccal RE pits",,,,,,,,2.66,,,1.23,12560.063,Pleistocene,1829,5,12,C,26,
+2697,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,m1 forward,,burned,"Anterior Groove depth is all the way down, RE pits",,,,3.67,,,,,,,1.28,12560.063,Pleistocene,1829,5,12,C,26,
+2718,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 forward,,burned,"Size, shape of bone in front of M1",,,,,,,,,,,,12560.063,Pleistocene,1829,5,12,C,26,
+2776,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,burned,"RE pits, shape of enamel",,,,3.35,1.79,,,,,,3.42,12670.136,Pleistocene,1829,5,12,C,27,
+2777,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,burned,"RE pits, shape of enamel",,,,4.06,2.08,,,,,,3.27,12670.136,Pleistocene,1829,5,12,C,27,
+2778,Neotoma sp.,Neotoma sp.,unknown,unknown,cheek tooth,fragment,,burned,Shape,,,,,,,,,,,,12670.136,Pleistocene,1829,5,12,C,27,
+2779,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 forward,edent,burned,"Size, Alveolar shape and pattern",,8.37,,,,,,,,,,12670.136,Pleistocene,1829,5,12,C,27,
+2780,Neotoma sp.,Neotoma sp.,L,mandible,mandible,m1 only,edent,,Alveolus shape and size - not large enough to be clearly cin.fusc,,,,,,,,,,,,12670.136,Pleistocene,1829,5,12,C,27,
+2781,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1 forward,edent,burned,"Size, alveolar shape",,,,,,,,,,,,12670.136,Pleistocene,1829,5,12,C,27,
+2815,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,posterior half,,burned,"RE pits, Size",,,,,,,,,,,,12670.136,Pleistocene,1829,5,12,C,27,
+2845,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 forward,edent,burned,"Size, alveolar pattern",,6.08,,,,,,,,,,12317.574,Pleistocene,1830,5,12,C,24,
+2846,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,complete,"missing m1,m2,m3",,"Size, alveolar pattern","Large crystals on diastema, incisor housing broken",,10.49,,,,,,,,,12317.574,Pleistocene,1830,5,12,C,24,
+2872,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 forward,edent,burned,"Alveolar shape, Size",,,,,,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2873,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,burned,"RE pits, shape of enamel",,,,,,2.86,2.61,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2874,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,burned,"RE pits, shape of enamel",,,,,,3.11,2.22,,,,4.39,12431.882,Pleistocene,1829,5,12,C,25,
+2875,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,burned,"RE pits, shape of enamel",,,,,,2.93,2.38,,,,3,12431.882,Pleistocene,1829,5,12,C,25,
+2876,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,burned,"RE pits, shape of enamel",,,,3.5,1.72,,,,,,3.17,12431.882,Pleistocene,1829,5,12,C,25,
+2877,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,burned,"RE pits, shape of enamel",,,,3.75,1.96,,,,,,4.04,12431.882,Pleistocene,1829,5,12,C,25,
+2878,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M2,,,burned,"RE pits, shape of enamel",,,,3.83,2.15,,,,,,2.88,12431.882,Pleistocene,1829,5,12,C,25,
+2879,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,burned,"RE pits, shape of enamel",,,,3.74,2.51,,,,,,1.8,12431.882,Pleistocene,1829,5,12,C,25,
+2884,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 forward,edent,burned,"Alveolar pattern, Size",,5.99,,,,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2885,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,complete,,burned,RE pits,,,,,,3,2.21,,,,1.31,12431.882,Pleistocene,1829,5,12,C,25,
+2886,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,complete,,burned,RE pits,,,,,,3.08,2.33,,,,3.8,12431.882,Pleistocene,1829,5,12,C,25,
+2887,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,posterior 2/3,,burned,RE pits,,,,,,,2.32,,,,3.15,12431.882,Pleistocene,1829,5,12,C,25,
+2888,Neotoma cin.fusc,Neotoma cin.fusc,unknown,maxilla,molar fragment,upper molar root fragment,,burned,Size,,,,,,,,,,,2.36,12431.882,Pleistocene,1829,5,12,C,25,
+2927,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,complete,,burned,"RE pits, angles",,,,3.61,2.13,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2928,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,complete,,burned,"RE pits, angles",,,,3.66,1.93,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2929,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,posterior 2/3,,burned,"RE pits, angles",,,,,2.27,,,,,,3.66,12431.882,Pleistocene,1829,5,12,C,25,
+2934,Neotoma sp.,Neotoma sp.,unknown,maxilla,upper molar side fragment,,,burned,,,,,,,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2963,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,maxilla,m1 forward,edent,,Size,,,,,,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2964,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,"RE pits, angles",,,,3.54,1.87,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2965,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,diastema forward,,,mandibular foramen and symphysis shape,,,,,,,,,,,,12431.882,Pleistocene,1829,5,12,C,25,
+2994,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,RE pits,,,,3.77,2.31,,,,,,,13627.689,Pleistocene,1829,5,12,C,29,
+2995,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M3,,,,RE pits,,,,,,,,2.46,2.02,,,13627.689,Pleistocene,1829,5,12,C,29,
+2996,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,,,,,,3.88,2.54,,,,,,,13627.689,Pleistocene,1829,5,12,C,29,
+3010,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,RE pits and grooves,,,,3.62,2.02,,,,,,,14780.966,Pleistocene,1829,5,12,C,33,
+3011,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,,RE pits and grooves,,,,,,3.14,2.06,,,,,14780.966,Pleistocene,1829,5,12,C,33,
+3029,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M3,,,burned,RE's have open shape,,,,,,,,2.81,,,,12920.425,Pleistocene,1829,5,12,C,28,
+3030,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,burned,RE's have open shape,,,,,,2.86,,,,,,12920.425,Pleistocene,1829,5,12,C,28,
+3044,Neotoma sp.,Neotoma sp.,R,mandible,mandible,m1 forward,edent,,Alveolar pattern,,7.7,,4.14,2.25,,,,,,,12920.425,Pleistocene,1829,5,12,C,28,
+3063,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1 forward,,,REs,Dirty,,,3.77,2.3,,,,,,,15124.433,Pleistocene,1829,5,12,C,34,
+3115,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M2,,,,RE pits,,,,,,3.1,,,,,,14255.099,Pleistocene,1829,5,12,C,30,
+3164,Neotoma cinerea,Neotoma cinerea,L,maxilla,maxilla,m1-m2 only,,burned,Teeth,Broken in two,,,4.38,,3.14,,,,,3.91,12098.897,Pleistocene,1830,5,12,C,23,
+3165,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,m1 forward,missing inc,burned,REs,,6.69,,3.43,,,,,,,3.07,12317.574,Pleistocene,1830,5,12,C,24,
+3209,Neotoma cinerea,Neotoma cinerea,R,maxilla,maxilla,complete,"missing m2,m3",,,,,9.73,3.93,2.13,,,,,,,12537.46333,Pleistocene,1374,5,5,B,28,
+3210,Neotoma cin.fusc,Neotoma cin.fusc,R,maxilla,maxilla,m1 forward,edent,,"Shape, size",Buccal only,,,,,,,,,,,12537.46333,Pleistocene,1374,5,5,B,28,
+3211,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m3 only,edent,,Size,Might be same individual as RCT 3212,,,,,,,,,,,12537.46333,Pleistocene,1374,5,5,B,28,
+3212,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1-m2 only,edent,,,Might be same individual as RCT 3211,,,,,,,,,,,12537.46333,Pleistocene,1374,5,5,B,28,
+3227,Neotoma fuscipes,Neotoma fuscipes,R,mandible,mandible,m1 forward,,,Enamel RE angles,Diastema broken,,,3.44,1.89,,,,,,,7324.9405,Holocene,1374,5,5,B,23,
+3237,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,"RE pits, anterior lingual RE extends down to base",,,,3.69,2.28,,,,,,,11907.11167,Pleistocene,1374,5,5,B,26,
+3238,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,,"Enamel pattern, RE pits",Very worn tooth,,,,,3.57,2.33,,,,,11907.11167,Pleistocene,1374,5,5,B,26,
+3246,c.f. Neotoma sp.,Neotoma sp.,L,mandible,mandible,diastema only,edent,,"Size, mandibular foramen",diastema broken,,,,,,,,,,,11907.11167,Pleistocene,1374,5,5,B,26,
+3623,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,diastema backwards,,,"Enamel pattern, RE pits and angles",Very worn. Likely same individual as 3622 and 3624,,9.39,3.63,1.97,3.03,,2.07,,,0.71,0,Modern,,5,,,June 2023 surface sweep,
+3628,Neotoma cinerea,Neotoma cinerea,B,mandible,mandible,complete,,,"RE pits, angles",Same individual as 3627,8.07,9.56,3.61,2.05,2.86,2.12,2.49,1.92,,2.36,0,Modern,,5,,,June 2023 surface sweep,
+3630,Neotoma cinerea,Neotoma cinerea,B,mandible,mandible,complete,,,"RE pits, angles",Same individual as 3629. Teeth super worn.,8.5,9.33,3.72,2.1,3.24,2.14,2.35,1.77,,0.65,0,Modern,,5,,,June 2023 surface sweep,
+3641,Neotoma sp.,Neotoma sp.,R,maxilla,maxilla,m2-m3 only,edent,,Alveolar pattern,damaged,,,,,,,,,,,14577.573,Pleistocene,1374,5,5,B,31,
+3642,Neotoma sp.,Neotoma sp.,R,maxilla,upper M2,,,,Dental pattern,,,,,,3.68,,,,,,14577.573,Pleistocene,1374,5,5,B,31,
+3643,Neotoma sp.,Neotoma sp.,R,mandible,mandible,diastema only,edent,,Alveolar pattern,,7.85,,,,,,,,,,14577.573,Pleistocene,1374,5,5,B,31,
+3646,Neotoma sp.,Neotoma sp.,R,mandible,mandible,diastema only,,,Dental pattern,,8.49,,,,,,,,,,14577.573,Pleistocene,1374,5,5,B,31,
+3695,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M1,,,,"RE angles broad, Groove goes down",,,,3.56,2.14,,,,,,4.34,14577.573,Pleistocene,1374,5,5,B,31,
+3696,Neotoma cinerea,Neotoma cinerea,L,maxilla,upper M2,,,,"RE pits, angles",,,,,,3.02,,,,,3.93,14577.573,Pleistocene,1374,5,5,B,31,
+3698,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,missing m3,,Anterior RE pits,teeth worn,8.71,9.52,3.73,2.03,3.03,,,,,1.03,14577.573,Pleistocene,1374,5,5,B,31,
+3728,Neotoma lepida,Neotoma lepida,R,maxilla,maxilla,complete,,,"RE angles pinched, no RE pits, size",,,,,,,,,,,,,,1294,5,6,B,2,
+3748,Neotoma lepida,Neotoma lepida,L,maxilla,maxilla,m1 only,,,"size, pinched Res",,,,3.11,2.05,,,,,,,78.6475,Holocene,1294,5,6,B,7,
+3773,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M2,,,,"RE pits, broad buccal Res",,,,,,3.07,2.62,,,,,1107.7355,Holocene,1294,5,6,B,10,
+3781,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m1-m3 only,edent,,"Alveolar pattern, size",m1 socket broken,,,1.81,2.2,1.75,,,,,,1107.7355,Holocene,1294,5,6,B,10,
+3800,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,ramus forward,missing m3,,"Dental pattern, size",Teeth very worn,7.48,11.01,4.39,2.18,3.76,,,,,,1827.4815,Holocene,1294,5,6,B,12,
+3838,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,,,"RE angles, pits",,,,4.11,2,,,,,,3.67,13021.011,Pleistocene,1294,5,6,B,40,
+3839,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,Anterior broken,,"RE angles, pits",,,,,2.07,,,,,,4.76,13021.011,Pleistocene,1294,5,6,B,40,
+3859,Neotoma cinerea,Neotoma cinerea,R,mandible,lower m2,,,,"Dental pattern, Size",,,,,,3.29,2.32,,,,1.48,14452.4155,Pleistocene,1294,5,6,B,43,
+3867,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,m1-m3 only,"missing m1,m3",,RE angles,,,11,,,3.61,2.19,,,,3.31,14452.4155,Pleistocene,1294,5,6,B,43,
+3899,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,"missing inc,m2,m3",,"Dental pattern, Res",Suspect M1W measurement of 1.52,7.68,10.11,3.88,2.12,,,,,,3.66,14675.641,Pleistocene,1294,5,6,B,44,
+3900,Neotoma cinerea,Neotoma cinerea,R,mandible,lower M1,,anterior broken,,"Dental pattern, Res",,,,,2.12,,,,,,3.03,14675.641,Pleistocene,1294,5,6,B,44,
+3901,Neotoma cin.fusc,Neotoma cin.fusc,L,maxilla,upper M2,,,,Dental pattern,,,,,,3.02,2.28,,,,2.97,14675.641,Pleistocene,1294,5,6,B,44,
+3937,Neotoma cinerea,Neotoma cinerea,L,mandible,mandible,complete,missing m3,,"Dental pattern, RE angles, RE pits",,7.72,10.22,3.86,1.87,,,,,,3.66,15200.141,Pleistocene,1294,5,6,B,46,
+3991,Neotoma cinerea,Neotoma cinerea,R,mandible,mandible,complete,missing m3,,"Dental pattner, RE Angles, pits",m2 broken,7.69,9.99,3.9,2.2,,,,,,4.14,15860.262,Pleistocene,1294,5,6,B,49,
+4029,Neotoma lepida,Neotoma lepida,R,mandible,mandible,m3 forward,"missing m1,m2,m3",,"Alveolar pattern, Size",,4.97,8.48,,,,,,,,,20.627,Holocene,1374,5,5,B,6,
+4030,Neotoma lepida,Neotoma lepida,R,maxilla,maxilla,m1 only,,,"RE angles, shallower AL groove, Size",,6.77,7.52,2.88,1.62,,,,,,0.87,20.627,Holocene,1374,5,5,B,6,
+4053,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m1 forward,missing m1,,Alveolar pattern,,5.12,,,,,,,,,,251.1953333,Holocene,1374,5,5,B,7,
+4063,Neotoma lepida,Neotoma lepida,L,mandible,mandible,m1 forward,,,RE pits,,5.96,,3.08,1.66,,,,,,0.85,251.1953333,Holocene,1374,5,5,B,7,
+4064,Neotoma c.f. lepida,Neotoma lepida,L,mandible,lower M2,,,,"RE angles and depth, Size",,,,,,2.47,,,,,2.83,251.1953333,Holocene,1374,5,5,B,7,
+4065,Neotoma c.f. lepida,Neotoma lepida,L,mandible,lower M1,,anterior broken,,"RE angles, Size",anterior broken,,,2.93,1.67,,,,,,2.47,251.1953333,Holocene,1374,5,5,B,7,
+4066,Neotoma c.f. lepida,Neotoma lepida,L,mandible,lower M2,,broken,,"RE angles, Size",,,,,,2.87,1.97,,,,,251.1953333,Holocene,1374,5,5,B,7,
+4076,Neotoma cin.fusc,Neotoma cin.fusc,L,mandible,mandible,m2-m3 only,edent,,"Alveolar pattern, size",,,,,,,,,,,,251.1953333,Holocene,1374,5,5,B,7,
+4086,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m2 only,edent,,"Alveolar pattern, size",,,,,,,,,,,,251.1953333,Holocene,1374,5,5,B,7,
+4131,Neotoma cinerea,Neotoma cinerea,R,maxilla,upper M1,,,burned,"Dental pattern, RE angles, RE pits",,,,3.08,2.01,,,,,,2.86,980.7913333,Holocene,1374,5,5,B,9,
+4144,Neotoma cin.fusc,Neotoma cin.fusc,R,mandible,mandible,m1 forward,edent,,"Alveolar pattern, size",,,,,,,,,,,,1327.05,Holocene,1374,5,5,B,10,
+4150,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,maxilla,m1 forward,,,"RE angles, anterior medial groove on m1 not present, size",posterior/anterior lophs broken,,,3.51,1.97,,,,,,2.46,2030.145667,Holocene,1374,5,5,B,12,
+4180,Neotoma fuscipes,Neotoma fuscipes,L,maxilla,upper M1,,,,"AM groove weak, Size",,,,3.61,2.34,,,,,,2.41,3770.50275,Holocene,1374,5,5,B,17,
+4184,Neotoma cinerea,Neotoma cinerea,L,mandible,lower M1,,,,"RE pits, AM groove",,,,3.71,1.92,,,,,,1.21,4446.4985,Holocene,1374,5,5,B,19,
+4187,Neotoma lepida,Neotoma lepida,R,mandible,mandible,complete,"missing m2,m3",,"RE angles, anterior medial groove on m1 not present, size",,6.47,7.28,2.99,1.41,,,,,,0.74,0,Modern,,0,0,March 2025 Surface Collecting,Pellets,
+RCT 590,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,13.46,9.53,3.62,2.4,2.35,,2.19,,6.4,,0,Modern,,,,,Modern trapping specimen,
+RCT 591,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,10.54,8.18,3.53,2.02,1.89,,1.66,,5.77,,0,Modern,,,,,Modern trapping specimen,
+RCT 592,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,10.54,8.04,3.07,1.95,1.82,,1.7,,5.27,,0,Modern,,,,,Modern trapping specimen,
+RCT 599,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,14.42,11.03,3.92,2.6,2.69,,2.56,,6.83,,0,Modern,,,,,Modern trapping specimen,
+RCT 607,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,13.49,10.21,3.66,2.24,2.55,,2.16,,6.45,,0,Modern,,,,,Modern trapping specimen,
+RCT 608,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,14.13,9.67,3.93,1.95,2.42,,2.16,,6.52,,0,Modern,,,,,Modern trapping specimen,
+RCT 625,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,9.73,8.15,3.23,1.77,1.89,,1.72,,5.44,,0,Modern,,,,,Modern trapping specimen,
+RCT 626,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,9.62,7.71,3.07,1.8,1.88,,1.42,,5.45,,0,Modern,,,,,Modern trapping specimen,
+RCT 670,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,9.93,8.28,3.43,1.85,1.86,,1.37,,5.49,,0,Modern,,,,,Modern trapping specimen,
+RCT 684,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,9.86,8.05,3.24,1.75,1.84,,1.47,,5.55,,0,Modern,,,,,Modern trapping specimen,
+RCT 685,Neotoma lepida,Neotoma lepida,,maxilla,Skull,,,,,,9.57,7.79,2.88,1.98,1.82,,1.36,,5.14,,0,Modern,,,,,Modern trapping specimen,
+RCT 686,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,13.92,10.41,3.78,2.05,2.49,,2.42,,6.58,,0,Modern,,,,,Modern trapping specimen,
+RCT 687,Neotoma cinerea,Neotoma cinerea,,maxilla,Skull,,,,,,14.37,10.25,3.61,2.22,2.56,,2.11,,6.61,,0,Modern,,,,,Modern trapping specimen,
