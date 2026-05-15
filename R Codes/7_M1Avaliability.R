@@ -100,8 +100,15 @@ totals <- colSums(plot_matrix)
 
 bar_perc <- round(totals / total_dataset * 100, 1)
 
-lower_perc <- round(plot_matrix["Lower", ] / total_dataset * 100, 1)
-upper_perc <- round(plot_matrix["Upper", ] / total_dataset * 100, 1)
+lower_perc <- round(
+  plot_matrix["Lower", ] / totals * 100,
+  1
+)
+
+upper_perc <- round(
+  plot_matrix["Upper", ] / totals * 100,
+  1
+)
 
 bar_labels <- paste0(
   colnames(plot_matrix),
@@ -189,8 +196,15 @@ lower_total <- sum(lower_counts)
 upper_bar_perc <- round(upper_total / total_dataset * 100, 1)
 lower_bar_perc <- round(lower_total / total_dataset * 100, 1)
 
-upper_percent <- round(upper_counts / total_dataset * 100, 1)
-lower_percent <- round(lower_counts / total_dataset * 100, 1)
+upper_percent <- round(
+  upper_counts / upper_total * 100,
+  1
+)
+
+lower_percent <- round(
+  lower_counts / lower_total * 100,
+  1
+)
 
 y_max2 <- max(rowSums(plot2_matrix))
 step2 <- ceiling(y_max2 / 10); if(step2 == 0) step2 <- 1
