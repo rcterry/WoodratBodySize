@@ -68,3 +68,23 @@ for (s in 1:length(species)){
   legend("bottomright",legend=paste("p = ",round(T$p.value,3),sep=""))
 }
 dev.off()
+
+#######################
+# Species by Sex Means
+#########################
+w <- aggregate(data$Weight,by=list(data$SPECIES,data$SEX),mean,na.rm=TRUE)
+wsd <- aggregate(data$Weight,by=list(data$SPECIES,data$SEX),sd,na.rm=TRUE)
+colnames(w) <- c("Species","Sex","Weight")
+colnames(wsd) <- c("Species","Sex","Weight SD")
+out <- merge(w,wsd)
+
+l <- aggregate(data$Total.length..TL.,by=list(data$SPECIES,data$SEX),mean,na.rm=TRUE)
+lsd <- aggregate(data$Total.length..TL.,by=list(data$SPECIES,data$SEX),sd,na.rm=TRUE)
+colnames(l) <- c("Species","Sex","Length")
+colnames(lsd) <- c("Species","Sex","Length SD")
+out <- merge(out,l)
+out <- merge(out,lsd)
+
+write.csv(out,
+          paste0(output_dir,'/2.4-SpeciesBySex-Means.csv'))
+
